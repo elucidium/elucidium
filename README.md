@@ -1,6 +1,6 @@
 ### Hello! 👋🏼
 
-My name is Ruiran Xun,<sup>1</sup> and I'm a rising junior at Carnegie Mellon University studying chemistry and computer science. I have industry experience in **full-stack development** using the WISA Stack and Flask/SQLAlchemy/jQuery/Bootstrap, and I'm always open to any opportunities to learn and expand my horizons!
+My name is Ruiran Xun,<sup>1</sup> and I'm a senior at at Carnegie Mellon University studying chemistry and computer science. I have previously worked as a software engineer intern with [Network Medical Management](https://www.networkmedicalmanagement.com/) and [Palo Alto Networks](https://www.paloaltonetworks.com/), and will be working full time with PAN starting August 2022.
 
 Feel free to browse my pinned repositories below for some examples of my work.
 
